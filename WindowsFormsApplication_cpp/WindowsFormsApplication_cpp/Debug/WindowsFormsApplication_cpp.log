@@ -1,0 +1,6 @@
+﻿  DataManager.cpp
+  DotNetUitilities.cpp
+  WindowsForm.cpp
+WindowsForm.cpp(6): warning C4829: 函数 main 的参数可能不正确。请考虑使用“int main(Platform::Array<Platform::String^>^ argv)”
+  正在生成代码...
+  WindowsFormsApplication_cpp.vcxproj -> \\psf\Home\Desktop\WindowsFormsApplication_cpp\Debug\WindowsFormsApplication_cpp.exe
